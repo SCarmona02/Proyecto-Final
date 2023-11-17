@@ -103,11 +103,6 @@ const NavBar = (props) => {
                 Hotels
               </NavLink>
             </li>
-            <li className={style.pages}>
-              <NavLink to={"/aboutUs"} className={style.linkLanding}>
-                About Us
-              </NavLink>
-            </li>
 
             <li className={style.pages2}>
               <label className={style.switch}>
